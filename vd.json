@@ -1,0 +1,26 @@
+[
+  {
+    "category": 1,
+    "preverb": "გა",
+    "version": "NEUTRAL2",
+    "version_perf": "OBJECTIVE",
+    "root": "კეთ",
+    "root_srs2": null,
+    "thema": "ებ",
+    "obj": "DIRECT",
+    "exceptions": {},
+    "id": 0
+  },
+  {
+    "category": 1,
+    "preverb": "გა",
+    "version": "NEUTRAL2",
+    "version_perf": "OBJECTIVE",
+    "root": "კეთ",
+    "root_srs2": null,
+    "thema": "ებ",
+    "obj": "INDIRECT",
+    "exceptions": {},
+    "id": 1
+  }
+]
