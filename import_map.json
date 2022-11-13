@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "$definitions": "https://raw.githubusercontent.com/vwkd/kita-conj-verbs/main/src/vd.json"
+  }
+}

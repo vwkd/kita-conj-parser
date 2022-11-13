@@ -1,4 +1,4 @@
-import { definitions } from "./deps.ts";
+import { default as definitions } from "$definitions" assert { type: "json" };
 import transformer from "./transformer/main.ts";
 
 const result = transformer(definitions);

@@ -1,5 +1,6 @@
 {
+  "importMap": "./import_map.json",
   "tasks": {
-    "generate": "deno run --allow-net --allow-write src/main.ts"
+    "generate": "deno run --allow-net --allow-write --lock-write src/main.ts"
   }
 }
