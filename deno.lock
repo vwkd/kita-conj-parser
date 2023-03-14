@@ -1,0 +1,6 @@
+{
+  "version": "2",
+  "remote": {
+    "https://raw.githubusercontent.com/vwkd/kita-conj-verbs/main/src/vd.json": "67ee3913907646f3ef5f91aece1259eab8c8d82d315a89f2982972981377f918"
+  }
+}
